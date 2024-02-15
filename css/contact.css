@@ -1,0 +1,41 @@
+
+.contactmain1{
+    height: 80vh;
+}
+
+.formcon {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+}
+.maininfo{
+    display: flex;
+    flex-direction: row;
+}
+  
+label {
+    display: block;
+    margin-top: 50px;
+    padding-left: 30px;
+}
+.inpute{
+    border-radius: 20px;
+    height: 40px;
+    border: 1px solid grey;
+}
+  
+textarea {
+    height: 100px;
+}
+  
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #ae1a5f;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+  
